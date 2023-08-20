@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TreinosFP\\TreinosFP.csproj": {}
+    "C:\\Dev\\FP\\TreinosFP\\TreinosFP.csproj": {}
   },
   "projects": {
-    "C:\\TreinosFP\\TreinosFP.csproj": {
+    "C:\\Dev\\FP\\TreinosFP\\TreinosFP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TreinosFP\\TreinosFP.csproj",
+        "projectUniqueName": "C:\\Dev\\FP\\TreinosFP\\TreinosFP.csproj",
         "projectName": "TreinosFP",
-        "projectPath": "C:\\TreinosFP\\TreinosFP.csproj",
+        "projectPath": "C:\\Dev\\FP\\TreinosFP\\TreinosFP.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\TreinosFP\\obj\\",
+        "outputPath": "C:\\Dev\\FP\\TreinosFP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
