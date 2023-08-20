@@ -1,0 +1,14 @@
+C:\TreinosFP\bin\Debug\net7.0\TreinosFP.exe
+C:\TreinosFP\bin\Debug\net7.0\TreinosFP.deps.json
+C:\TreinosFP\bin\Debug\net7.0\TreinosFP.runtimeconfig.json
+C:\TreinosFP\bin\Debug\net7.0\TreinosFP.dll
+C:\TreinosFP\bin\Debug\net7.0\TreinosFP.pdb
+C:\TreinosFP\obj\Debug\net7.0\TreinosFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinosFP\obj\Debug\net7.0\TreinosFP.AssemblyInfoInputs.cache
+C:\TreinosFP\obj\Debug\net7.0\TreinosFP.AssemblyInfo.cs
+C:\TreinosFP\obj\Debug\net7.0\TreinosFP.csproj.CoreCompileInputs.cache
+C:\TreinosFP\obj\Debug\net7.0\TreinosFP.dll
+C:\TreinosFP\obj\Debug\net7.0\refint\TreinosFP.dll
+C:\TreinosFP\obj\Debug\net7.0\TreinosFP.pdb
+C:\TreinosFP\obj\Debug\net7.0\TreinosFP.genruntimeconfig.cache
+C:\TreinosFP\obj\Debug\net7.0\ref\TreinosFP.dll
